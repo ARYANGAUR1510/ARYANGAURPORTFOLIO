@@ -1,3 +1,3 @@
 # ARYANGAURPORTFOLIO 
 THIS IS MY PORTFOLIO WEBSITE MADE  BY USING HTML &amp; CSS!!
-live preview https://aryangaur1510.github.io/ARYANGAURPORTFOLIO/
+live preview https://gauraryan1502.github.io/ARYANGAURPORTFOLIO/
